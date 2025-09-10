@@ -1,0 +1,2 @@
+Hello Arjun here. I am currently learning file handling in C
+I am appending content to the file
